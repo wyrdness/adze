@@ -1,0 +1,294 @@
+{
+  "category": "UNDEAD",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/adze",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "adze",
+    "name": "Adze",
+    "aliases": [
+      {
+        "name": "Adze",
+        "language": "Ewe",
+        "region": "Ghana, Togo",
+        "meaning": "Vampiric firefly spirit"
+      }
+    ],
+    "category": "UNDEAD",
+    "subcategory": "ENTITY_SPIRIT",
+    "tags": [
+      "vampire",
+      "spirit",
+      "firefly",
+      "possession",
+      "blood-drinking",
+      "west-africa",
+      "ewe",
+      "disease",
+      "shapeshifter",
+      "nocturnal"
+    ],
+    "status": "active",
+    "description": {
+      "summary": "A vampiric firefly spirit from Ewe people (Ghana, Togo) that drinks blood, especially from children, and can possess humans. In spirit form appears as firefly, in possessed human form acts as vampire.",
+      "full": "The Adze is a vampiric creature from the Ewe people of Ghana and Togo in West Africa. In its spirit form, it manifests as a firefly or glowing light that appears at night. The adze seeks sleeping victims to drink their blood, with a particular preference for children. It has the ability to possess humans, and when possessing someone, that person becomes vampiric in behavior. The adze drinks blood, spreads disease, and causes death. Detection involves spotting firefly lights at night that may indicate an adze seeking victims. Traditional protections and medicines are used by the Ewe people to ward against the adze. This creature represents an African variant of vampire folklore, distinctly different from European vampires in its spirit-based nature and firefly manifestation. The belief is part of Ewe traditional folklore and cultural heritage."
+    },
+    "etymology": {
+      "origin": "Ewe people traditional folklore (Ghana and Togo)",
+      "meaning": "Vampiric spirit entity",
+      "first_use": "Traditional oral folklore, predating written records"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "UNDEAD",
+      "type": "Vampire spirit",
+      "subtype": "Possessing entity",
+      "variant": "West African"
+    },
+    "related_phenomena": [
+      {
+        "id": "vampires",
+        "name": "Vampires",
+        "relationship": "similar",
+        "description": "European vampire variants"
+      },
+      {
+        "id": "obayifo",
+        "name": "Obayifo",
+        "relationship": "similar",
+        "description": "West African vampire-witch"
+      },
+      {
+        "id": "asanbosam",
+        "name": "Asanbosam",
+        "relationship": "regional_variant",
+        "description": "Ashanti vampire creature"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "forms": [
+        {
+          "form": "Firefly spirit",
+          "description": "Glowing firefly or light, primary spirit form",
+          "frequency": "common"
+        },
+        {
+          "form": "Possessed human",
+          "description": "Human body possessed by adze spirit",
+          "frequency": "occasional"
+        }
+      ],
+      "features": [
+        {
+          "feature": "Firefly light",
+          "description": "Appears as glowing firefly or light at night",
+          "frequency": "always"
+        },
+        {
+          "feature": "Spirit form",
+          "description": "Incorporeal spirit entity",
+          "frequency": "common"
+        }
+      ],
+      "morphology": "Spirit entity that manifests as firefly light. Can possess human bodies to become corporeal."
+    },
+    "abilities": [
+      {
+        "ability": "Flight",
+        "description": "Flies as firefly spirit",
+        "frequency": "common",
+        "evidence_level": "traditional_belief"
+      },
+      {
+        "ability": "Possession",
+        "description": "Can possess human bodies",
+        "frequency": "occasional",
+        "evidence_level": "traditional_belief"
+      },
+      {
+        "ability": "Blood-drinking",
+        "description": "Drinks blood from victims, especially children",
+        "frequency": "common",
+        "evidence_level": "traditional_belief"
+      },
+      {
+        "ability": "Disease transmission",
+        "description": "Spreads illness and disease",
+        "frequency": "common",
+        "evidence_level": "traditional_belief"
+      },
+      {
+        "ability": "Shape-shifting",
+        "description": "Transforms between spirit and possessed forms",
+        "frequency": "common",
+        "evidence_level": "traditional_belief"
+      }
+    ],
+    "behavior": {
+      "activity_period": "nocturnal",
+      "disposition": "malevolent",
+      "social_structure": "solitary",
+      "habitat_preference": [
+        "human settlements",
+        "near sleeping victims"
+      ],
+      "diet": "Blood (especially children)",
+      "patterns": [
+        "Appears as firefly light at night",
+        "Seeks sleeping victims",
+        "Drinks blood",
+        "Possesses humans occasionally",
+        "Spreads disease",
+        "Causes death"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Ewe people traditional territories in West Africa",
+      "continents": ["Africa"],
+      "countries": ["Ghana", "Togo"],
+      "regions": [
+        "Volta Region (Ghana)",
+        "Greater Accra Region",
+        "Togo (Ewe territories)"
+      ]
+    },
+    "hotspots": [
+      {
+        "name": "Ewe territories",
+        "location": {
+          "description": "Traditional Ewe lands in Ghana and Togo",
+          "country": "Ghana, Togo",
+          "region": "Volta Region and southern Togo"
+        },
+        "notes": "Origin and center of adze belief"
+      }
+    ],
+    "temporal": {
+      "first_recorded": {
+        "date": "Pre-colonial",
+        "circa": true,
+        "source": "Ewe oral traditions"
+      },
+      "peak_activity_periods": [
+        {
+          "period": "Ongoing",
+          "description": "Traditional belief maintained in Ewe culture"
+        }
+      ],
+      "seasonal_patterns": "Nocturnal activity year-round"
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Deep roots in Ewe traditional belief systems. Part of broader West African folklore involving spirits, blood-drinking entities, and supernatural threats to children.",
+      "earliest_accounts": "Pre-colonial Ewe oral traditions. First written accounts appear in colonial-era anthropological studies of West African peoples.",
+      "folklore_connections": "Connected to wider West African beliefs about vampiric entities, spirits, and witchcraft. Related to other African vampire traditions like obayifo and asanbosam."
+    },
+    "timeline": [
+      {
+        "date": "Pre-colonial",
+        "event": "Traditional belief established",
+        "significance": "Adze belief firmly established in Ewe culture",
+        "source": "Oral traditions"
+      },
+      {
+        "date": "1800s-1900s",
+        "event": "Western documentation",
+        "significance": "Anthropologists and missionaries document the adze belief",
+        "source": "Colonial anthropological records"
+      }
+    ],
+    "modern_era": "The adze remains part of Ewe cultural heritage and traditional beliefs, though urbanization and modernization have affected belief prevalence."
+  },
+
+  "protection": {
+    "methods": [
+      {
+        "method": "Avoid firefly lights at night",
+        "description": "Do not approach or follow firefly lights after dark",
+        "effectiveness": "Traditional prevention"
+      },
+      {
+        "method": "Traditional medicines",
+        "description": "Protective charms and medicines from traditional healers",
+        "effectiveness": "Cultural standard"
+      },
+      {
+        "method": "Protective rituals",
+        "description": "Traditional Ewe protective practices",
+        "effectiveness": "Traditional belief"
+      }
+    ]
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Warning children about firefly lights at night",
+        "Traditional protections against blood-drinking spirits",
+        "Stories of adze attacks",
+        "Ewe vampire folklore"
+      ],
+      "stories": [
+        "Tales of adze attacking sleeping children",
+        "Stories of possessed individuals",
+        "Warnings passed down through generations"
+      ],
+      "beliefs": "Part of Ewe traditional belief system regarding spirits and supernatural threats. Used to explain mysterious deaths, especially of children."
+    },
+    "indigenous": {
+      "cultures": [
+        "Ewe"
+      ],
+      "significance": "Part of Ewe spiritual and cultural heritage. Represents understanding of supernatural threats and the spirit world.",
+      "sensitivity_note": "This is part of Ewe cultural heritage and should be treated with respect as a traditional belief system.",
+      "respect_guidelines": "Approach Ewe folklore with cultural respect. Consult Ewe cultural authorities when researching traditional beliefs."
+    }
+  },
+
+  "research": {
+    "researchers": [
+      {
+        "name": "Various anthropologists",
+        "affiliation": "Colonial and post-colonial researchers",
+        "contribution": "Documentation of West African folklore and vampire beliefs",
+        "period": "1800s-present"
+      }
+    ],
+    "ongoing_studies": "Anthropological research into West African vampire folklore and traditional belief systems."
+  },
+
+  "sources": [
+    {
+      "id": "west-african-folklore",
+      "type": "reference",
+      "title": "West African folklore and Ewe cultural studies",
+      "note": "Multiple anthropological sources document this belief"
+    }
+  ]
+}
